@@ -1,0 +1,16 @@
+name: Arpit Jalan (@techAPJ)
+description: Coder of Ruby/Rails/Ember/JS
+meta_description: "Arpit Jalan is an Electrical Engineer by Graduation & self-taught Software Programmer by Passion."
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+permalink: pretty
+domain_name: 'http://blog.techapj.com'
+google_analytics: 'UA-46298411-2'
+
+# Details for the RSS feed generator
+url: 'http://blog.techapj.com'
+author: 'Arpit Jalan'
