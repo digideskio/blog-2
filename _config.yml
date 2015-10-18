@@ -9,7 +9,7 @@ paginate: 15
 baseurl: /
 permalink: pretty
 domain_name: 'http://blog.techapj.com'
-google_analytics: 'UA-46298411-2'
+google_analytics: 'UA-46298411-1'
 
 # Details for the RSS feed generator
 url: 'http://blog.techapj.com'
