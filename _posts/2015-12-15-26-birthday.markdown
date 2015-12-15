@@ -1,0 +1,24 @@
+---
+cover: 'assets/images/sydney.jpg'
+layout: post
+title: "26th Birthday"
+date: 2015-12-15 00:10:00
+categories: birthday
+permalink: 26th-birthday
+---
+
+It's 15th December 2015, I turned 26 years old today. Two years ago [I wrote my thoughts](http://blog.techapj.com/24th-birthday/) about turning 24, at that time I was a newbie computer programmer looking for the right direction. A lot has changed since then.
+
+In mid 2012, when I started looking for a job as computer programmer I was not even eligible to apply in many software companies because I didn't had relevant qualification/experience. I was an Electrical Engineer looking for a software engineering job, and that was not easy at the time. I grabbed the first opportunity I got, that was "PHP software engineer trainee" at a web application development company in my hometown Jodhpur.
+
+The past two years of my life have been the most productive. I [started taking interest](http://blog.techapj.com/coding-pleasure/) in Ruby and got an Internship opportunity at Discourse in May 2014. I consider that as an important milestone in my life because it changed my approach towards software architecture. It's after looking into Discourse source code I understood how production quality web apps are made and function.
+
+Getting an opportunity to work under the mentorship of [Jeff Atwood](http://blog.codinghorror.com/) is like a dream come true. He is [the most humble person I have ever met](http://blog.techapj.com/thank-you-coach/).
+
+I got my [job confirmation at Discourse](http://blog.discourse.org/2015/05/welcome-arpit-jalan-to-the-discourse-team/) in May 2015 and met the entire team in Sydney in October 2015, it was a life-changing experience for me. Being a part of distributed team I always wondered what it will be like to meet everyone for the first time, in one word it was "AWESOME". I feel proud to be a part of globally diverse team.
+
+I think I am heading in the right direction now, and to be honest I never felt this much confident before. I now understand what Steve meant when he said:
+
+> We're here to put a dent in the universe. Otherwise why else even be here?
+
+Thanks everyone for the Birthday wishes!
